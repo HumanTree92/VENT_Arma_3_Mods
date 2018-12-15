@@ -1,0 +1,9 @@
+name = "VENT Admin Menu";
+picture = "banner.paa";
+actionName = "Website";
+action = "http://www.velocitientertainment.com/";
+logo = "logo.paa";
+tooltip = "VENT Admin Menu V1.0";
+overview = "Velociti Entertainment has created a Wonderful Admin Menu to use on Servers! Check them out at the Website. This is mainly used on Server that allow Clients to install whatever mods they want. Please DO NOT ABUSE!!!";
+description = "An Addon for Server Admins" ;
+author = "Velociti Entertainment";
