@@ -16,6 +16,24 @@ This is a Mod Pack for Velociti Entertainments Private Server (7 Days to Die)
 11) Near the Top Left you should see Load VENT Admin Menu & Click on that.
 12) Once the Admin Menu is Loaded do Key F6 & that Admin Menu should open.
 
+# VENT Admin Menu Keybinds
+* F6: Main GUI
+* F8: Debug Console
+* F3: Heal Yourself
+* Left Shift + Del: Destroy Cursortarget
+* Del: Delete Cursortarget
+* Left Shift + ~: Airstrike at Cursortarget
+* Left Shift + 1: Unlock Cursortarget
+* Left Shift + 2: Lock Cursortarget
+* Left Shift + 3: Revive Cursortarget (Alits Life Only)
+* Left Shift + 4: Attach Cursortarget to your player
+* Left Shift + Ins: Delete Cursortargets Gear
+* Ins Key: Clone CursorTargets Gear
+* 4 Key: Detach All Objects from you
+
+# NOTE!!!
+I am NOT Responsible if you use this for Cheating. This Admin Menu is intended for Admins/Developers to test things out or for people to mess around on their own Private Server or in Singleplayer.
+
 # Visit Velociti Entertainment
 * [TS3](http://www.velocitientertainment.com/ts3/)
 * [Discord](https://discord.gg/azEY2kU)
