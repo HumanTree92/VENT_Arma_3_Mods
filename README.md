@@ -1,8 +1,8 @@
-# Arma_3_Admin_Menu
-This is a Mod Pack for Velociti Entertainments Private Server (7 Days to Die)
+# About Arma_3_Admin_Menu:
+This is an Admin Menu for Arma 3 Servers.
 [HERE ARE SOME IMAGES](https://imgur.com/a/qLejD3Z)
 
-# Download & Installation
+# Download & Installation:
 1) Download the .zip.
 2) Extract the .zip or Open the .zip.
 3) Go to your Arma 3 Directory.
@@ -17,7 +17,7 @@ This is a Mod Pack for Velociti Entertainments Private Server (7 Days to Die)
 11) Near the Top Left you should see Load VENT Admin Menu & Click on that.
 12) Once the Admin Menu is Loaded do Key F6 & that Admin Menu should open.
 
-# VENT Admin Menu Keybinds
+# VENT Admin Menu Keybinds:
 * F6: Main GUI
 * F8: Debug Console
 * F3: Heal Yourself
@@ -49,3 +49,15 @@ I am NOT Responsible if you use this for Cheating. This Admin Menu is intended f
 * [Twitch](www.twitch.tv/humantree92)
 * [eBay](www.ebay.com/usr/humantree92)
 * Kik #vegaming
+
+# Legal
+### License
+Arma_3_Admin_Menu - Admin Menu for Arma 3 Servers.
+
+Copyright (C) 2011-2018 Velociti Entertainment
+
+This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
+
+This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
+
+You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
