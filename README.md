@@ -40,7 +40,7 @@ I am NOT Responsible if you use this for Cheating. This Admin Menu is intended f
 * [Discord](https://discord.gg/azEY2kU)
 * [Website](www.velocitientertainment.com/)
 * [Forums](www.velocitientertainment.com/forum)
-* [Servers](www.velocitientertainment.com/servers/)
+* [About Us](http://www.velocitientertainment.com/pc-gaming/)
 * [Donate](http://www.velocitientertainment.com/donations/)
 * [Steam Group](http://steamcommunity.com/groups/velocitientertainment)
 * [Facebook](www.facebook.com/VelocitiEntertainment)
