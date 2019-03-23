@@ -1,23 +1,30 @@
-# About Arma_3_Admin_Menu:
-This is an Admin Menu for Arma 3 Servers.
-[HERE ARE SOME IMAGES](https://imgur.com/a/qLejD3Z)
+# About VENT_Arma_3_Mods:
+* @VENT Admin Menu - This is an Admin Menu for Arma 3 Servers. [HERE ARE SOME IMAGES](https://imgur.com/a/qLejD3Z)
+* @HT Carryall Backpack Plus - This is a Backpack Mod that has Infinit Storage plus Arsenal.
 
 # Download & Installation:
 1) Download the .zip.
 2) Extract the .zip or Open the .zip.
 3) Go to your Arma 3 Directory.
 * Location: steam\steamapps\common\Arma 3
-4) Drag & Drop the @VENT Admin Menu into your Arma 3 Directory.
+4) Drag & Drop the @MODHERE into your Arma 3 Directory.
 5) Launch Arma 3 & go to your MODS Tab.
 6) Click on Local mod at the Top & go to your Arma 3 Directory.
-7) Find @VENT Admin Menu & Click on it & do Select Folder.
-8) Find VENT Admin Menu in the MOD Tab & Click on the Box till it has a Check Mark & its in the Loaded mods Box.
-9) Launch Arma 3 & go to a Server or Mission & Load in all the way.
-10) Once Loaded in Open your Inventory Default Key I
-11) Near the Top Left you should see Load VENT Admin Menu & Click on that.
-12) Once the Admin Menu is Loaded do Key F6 & that Admin Menu should open.
+7) Find @MODHERE & Click on it & do Select Folder.
+8) Find @MODHERE in the MOD Tab & Click on the Box till it has a Check Mark & its in the Loaded mods Box.
 
-# VENT Admin Menu Keybinds:
+# VENT Backpack Plus How to Use:
+1) Go to the Arsenal & Find the Backpack Mod
+2) Select It & have fun.
+3) Keybindings:
+* Double Tap Home Key for Arsenal.
+
+# VENT Admin Menu How to Use:
+1) Launch Arma 3 & go to a Server or Mission & Load in all the way.
+2) Once Loaded in Open your Inventory Default Key I.
+3) Near the Top Left you should see Load VENT Admin Menu & Click on that.
+4) Once the Admin Menu is Loaded do Key F6 & that Admin Menu should open.
+5) Keybindings:
 * F6: Main GUI
 * F8: Debug Console
 * F3: Heal Yourself
