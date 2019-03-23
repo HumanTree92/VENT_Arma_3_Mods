@@ -1,6 +1,6 @@
 # About VENT_Arma_3_Mods:
 * @VENT Admin Menu - This is an Admin Menu for Arma 3 Servers. [HERE ARE SOME IMAGES](https://imgur.com/a/qLejD3Z)
-* @VENT Backpack Plus - This is a Backpack Mod that has Infinit Storage plus Arsenal.
+* @VENT Backpack Plus - This is a Backpack Mod that has Infinit Storage plus Arsenal for the Carryall & Assault Pack.
 
 # Download & Installation:
 1) Download the .zip.
