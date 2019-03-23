@@ -1,4 +1,4 @@
-name = "[HT] Carryall Backpack Plus";
+name = "VENT Backpack Plus";
 picture = "banner.paa";
 actionName = "Website";
 action = "http://www.velocitientertainment.com/";

@@ -1,6 +1,6 @@
 # About VENT_Arma_3_Mods:
 * @VENT Admin Menu - This is an Admin Menu for Arma 3 Servers. [HERE ARE SOME IMAGES](https://imgur.com/a/qLejD3Z)
-* @HT Carryall Backpack Plus - This is a Backpack Mod that has Infinit Storage plus Arsenal.
+* @VENT Backpack Plus - This is a Backpack Mod that has Infinit Storage plus Arsenal.
 
 # Download & Installation:
 1) Download the .zip.
@@ -12,12 +12,6 @@
 6) Click on Local mod at the Top & go to your Arma 3 Directory.
 7) Find @MODHERE & Click on it & do Select Folder.
 8) Find @MODHERE in the MOD Tab & Click on the Box till it has a Check Mark & its in the Loaded mods Box.
-
-# VENT Backpack Plus How to Use:
-1) Go to the Arsenal & Find the Backpack Mod
-2) Select It & have fun.
-3) Keybindings:
-* Double Tap Home Key for Arsenal.
 
 # VENT Admin Menu How to Use:
 1) Launch Arma 3 & go to a Server or Mission & Load in all the way.
@@ -38,6 +32,12 @@
 * Left Shift + Ins: Delete Cursortargets Gear
 * Ins Key: Clone CursorTargets Gear
 * 4 Key: Detach All Objects from you
+
+# VENT Backpack Plus How to Use:
+1) Go to the Arsenal & Find the Backpack Mod
+2) Select It & have fun.
+3) Keybindings:
+* Double Tap Home Key for Arsenal.
 
 # NOTE!!!
 I am NOT Responsible if you use this for Cheating. This Admin Menu is intended for Admins/Developers to test things out or for people to mess around on their own Private Server or in Singleplayer.
