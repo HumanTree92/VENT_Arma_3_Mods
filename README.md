@@ -59,7 +59,7 @@ I am NOT Responsible if you use this for Cheating. This Admin Menu is intended f
 
 # Legal
 ### License
-Arma_3_Admin_Menu - Admin Menu for Arma 3 Servers.
+VENT_Arma_3_Mods - Mods for Arma 3 Servers.
 
 Copyright (C) 2011-2019 Velociti Entertainment
 
