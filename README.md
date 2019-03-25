@@ -19,21 +19,7 @@
 1) Launch Arma 3 & go to a Server or Mission & Load in all the way.
 2) Once Loaded in Open your Inventory Default Key I.
 3) Near the Top Left you should see Load VENT Admin Menu & Click on that.
-4) Once the Admin Menu is Loaded do Key F6 & that Admin Menu should open.
-5) Keybindings:
-* F6: Main GUI
-* F8: Debug Console
-* F3: Heal Yourself
-* Left Shift + Del: Destroy Cursortarget
-* Del: Delete Cursortarget
-* Left Shift + ~: Airstrike at Cursortarget
-* Left Shift + 1: Unlock Cursortarget
-* Left Shift + 2: Lock Cursortarget
-* Left Shift + 3: Revive Cursortarget (Alits Life Only)
-* Left Shift + 4: Attach Cursortarget to your player
-* Left Shift + Ins: Delete Cursortargets Gear
-* Ins Key: Clone CursorTargets Gear
-* 4 Key: Detach All Objects from you
+4) Keybindings - Controls > Configure Addons > [VENT] Admin Menu
 
 # VENT Backpack Plus | VENT TFR Plus | VENT AIO Plus | How to Use:
 1) Go to the Arsenal & Find the Backpack Mod
