@@ -1,6 +1,8 @@
 # About VENT_Arma_3_Mods:
 * @VENT Admin Menu - This is an Admin Menu for Arma 3 Servers. [HERE ARE SOME IMAGES](https://imgur.com/a/qLejD3Z)
 * @VENT Backpack Plus - This is a Backpack Mod that has Infinit Storage plus Arsenal for the Carryall & Assault Pack.
+* @VENT TFR Plus - This is a Task Force Radio Mod that has Infinit Storage plus Arsenal for the Radios.
+* @VENT AIO Plus - This Combines @VENT Backpack Plus & @VENT TFR Plus.
 
 # Download & Installation:
 1) Download the .zip.
@@ -33,7 +35,7 @@
 * Ins Key: Clone CursorTargets Gear
 * 4 Key: Detach All Objects from you
 
-# VENT Backpack Plus How to Use:
+# VENT Backpack Plus | VENT TFR Plus | VENT AIO Plus | How to Use:
 1) Go to the Arsenal & Find the Backpack Mod
 2) Select It & have fun.
 3) Keybindings:
