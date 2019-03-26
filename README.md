@@ -3,6 +3,8 @@
 * @VENT Backpack Plus - This is a Backpack Mod that has Infinit Storage plus Arsenal for the Carryall & Assault Pack.
 * @VENT TFR Plus - This is a Task Force Radio Mod that has Infinit Storage plus Arsenal for the Radios.
 * @VENT AIO Plus - This Combines @VENT Backpack Plus & @VENT TFR Plus.
+* @VENT Player Buff - Removes Stamina, Weapon Sway, & Recoil.
+* @VENT Player Buff Ace - Removes Stamina, Weapon Sway, & Recoil. Only Use if using ACE.
 
 # Download & Installation:
 1) Download the .zip.
@@ -26,6 +28,9 @@
 2) Select It & have fun.
 3) Keybindings:
 * Double Tap Home Key for Arsenal.
+
+# VENT Player Buff | VENT Player Buff Ace | How to Use:
+1) Just do Install Method Above.
 
 # NOTE!!!
 I am NOT Responsible if you use this for Cheating. This Admin Menu is intended for Admins/Developers to test things out or for people to mess around on their own Private Server or in Singleplayer.
