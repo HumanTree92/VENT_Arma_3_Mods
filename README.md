@@ -36,7 +36,6 @@
 I am NOT Responsible if you use this for Cheating. This Admin Menu is intended for Admins/Developers to test things out or for people to mess around on their own Private Server or in Singleplayer.
 
 # Visit Velociti Entertainment
-* TS3 - ts3.velocitientertainment.com
 * [Discord](http://discord.velocitientertainment.com)
 * [Website](http://velocitientertainment.com/)
 * [Forums](http://velocitientertainment.com/forum)
@@ -53,7 +52,7 @@ I am NOT Responsible if you use this for Cheating. This Admin Menu is intended f
 ### License
 VENT_Arma_3_Mods - Mods for Arma 3 Servers.
 
-Copyright (C) 2011-2020 Velociti Entertainment
+Copyright (C) 2011-2021 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
