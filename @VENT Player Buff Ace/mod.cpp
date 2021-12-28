@@ -1,9 +1,0 @@
-name = "VENT Player Buff Ace";
-picture = "banner.paa";
-actionName = "Website";
-action = "http://www.velocitientertainment.com/";
-logo = "logo.paa";
-tooltip = "VENT Player Buff Ace";
-overview = "Velociti Entertainment has created a Player Buff to use on Ace Servers! Check them out at the Website. This is mainly used on a Ace Server that allow Clients to install whatever mods they want. Please DO NOT ABUSE!!!";
-description = "An Addon for Clients" ;
-author = "Velociti Entertainment";
