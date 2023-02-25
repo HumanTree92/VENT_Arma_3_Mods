@@ -38,7 +38,6 @@ I am NOT Responsible if you use this for Cheating. This Admin Menu is intended f
 # Visit Velociti Entertainment
 * [Discord]( https://discord.velocitientertainment.com )
 * [Website]( https://velocitientertainment.com )
-* [About Us]( https://velocitientertainment.com/pc-gaming )
 * [Donate]( https://velocitientertainment.com/donations )
 * [Patreon]( https://www.patreon.com/VelocitiEntertainment?fan_landing=true )
 * [Steam Group]( https://steamcommunity.com/groups/velocitientertainment )
