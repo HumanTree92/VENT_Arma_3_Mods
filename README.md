@@ -1,9 +1,6 @@
 # About VENT_Arma_3_Mods:
-* @VENT Admin Menu - This is an Admin Menu for Arma 3 Servers. [HERE ARE SOME IMAGES](https://imgur.com/a/qLejD3Z)
-* @VENT Backpack Plus - This is a Backpack Mod that has Infinit Storage plus Arsenal for the Carryall & Assault Pack.
 * @VENT TFR Plus - This is a Task Force Radio Mod that has Infinit Storage plus Arsenal for the Radios.
 * @VENT AIO Plus - This Combines @VENT Backpack Plus & @VENT TFR Plus.
-* @VENT Player Buff - Removes Stamina, Weapon Sway, & Recoil.
 * @VENT Player Buff Ace - Removes Stamina, Weapon Sway, & Recoil. Only Use if using ACE.
 
 # Download & Installation:
@@ -16,21 +13,6 @@
 6) Click on Local mod at the Top & go to your Arma 3 Directory.
 7) Find @MODHERE & Click on it & do Select Folder.
 8) Find @MODHERE in the MOD Tab & Click on the Box till it has a Check Mark & its in the Loaded mods Box.
-
-# VENT Admin Menu How to Use:
-1) Launch Arma 3 & go to a Server or Mission & Load in all the way.
-2) Once Loaded in Open your Inventory Default Key I.
-3) Near the Top Left you should see Load VENT Admin Menu & Click on that.
-4) Keybindings - Controls > Configure Addons > [VENT] Admin Menu
-
-# VENT Backpack Plus | VENT TFR Plus | VENT AIO Plus | How to Use:
-1) Go to the Arsenal & Find the Backpack Mod
-2) Select It & have fun.
-3) Keybindings:
-* Double Tap Home Key for Arsenal.
-
-# VENT Player Buff | VENT Player Buff Ace | How to Use:
-1) Just do Install Method Above.
 
 # NOTE!!!
 I am NOT Responsible if you use this for Cheating. This Admin Menu is intended for Admins/Developers to test things out or for people to mess around on their own Private Server or in Singleplayer.
@@ -51,7 +33,7 @@ I am NOT Responsible if you use this for Cheating. This Admin Menu is intended f
 ### License
 VENT_Arma_3_Mods - Mods for Arma 3 Servers.
 
-Copyright (C) 2023 Velociti Entertainment
+Copyright (C) 2024 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
